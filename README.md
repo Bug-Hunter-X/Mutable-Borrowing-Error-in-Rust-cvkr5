@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust related to mutable borrowing.  The `bug.rs` file shows the erroneous code, attempting to create a shared reference to a variable already mutably borrowed. The `bugSolution.rs` provides the corrected version and explanation.
